@@ -1,0 +1,1 @@
+Sitemap: https://brunogiles.github.io/fastePageAPI/sitemap.xml
